@@ -1,0 +1,5 @@
+nome = "Fernando"
+idade = 22
+cidade - "São Bernardo do Campo"
+
+print("Olá, meu nome é ", nome, ". Eu tenho ", idade," anos e moro em ", cidade, ".")
